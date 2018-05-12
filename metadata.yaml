@@ -1,0 +1,33 @@
+_repo: Versuche--ber-Pflanzenhybriden_40854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40854-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mendel, Gregor
+    aliases:
+    - Mendel, Johann Gregor
+    - Mendel, Gregor Johann
+    - Mendel, J. G. (Johann Gregor)
+    birthdate: 1822
+    deathdate: 1884
+    gutenberg_agent_id: '40855'
+    url: http://www.gutenberg.org/2009/agents/40855
+    wikipedia: https://en.wikipedia.org/wiki/Gregor_Mendel
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40854'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plant hybridization'
+- !lcsh 'Plant genetics'
+- !lcc 'QH'
+title: Versuche über Pflanzenhybriden
+url: http://www.gutenberg.org/ebooks/40854
