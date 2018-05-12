@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40855
     wikipedia: https://en.wikipedia.org/wiki/Gregor_Mendel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40854#Versuche--ber-Pflanzenhybriden
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-09-24'
 gutenberg_type: Text
